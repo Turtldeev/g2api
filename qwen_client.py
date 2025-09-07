@@ -1,3 +1,6 @@
+# Qwen
+# model 100% original
+
 from __future__ import annotations
 
 import asyncio
