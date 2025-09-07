@@ -1,3 +1,6 @@
+# not working without auth
+# 100% original model
+
 """
 Kimi AI Chat Client
 A standalone Python client for interacting with Kimi's chat service (kimi.com)
