@@ -1,3 +1,5 @@
+# perplexity (this models are 90% originally) without auth
+
 from __future__ import annotations
 
 import random
