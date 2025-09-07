@@ -1,3 +1,6 @@
+# GLM
+# 100% original
+
 """
 GLM AI Chat Client
 A standalone Python client for interacting with GLM's chat service (chat.z.ai)
